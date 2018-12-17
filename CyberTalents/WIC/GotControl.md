@@ -1,6 +1,6 @@
 #### GotControl
 
-The challenge is Web App says
+The challenge was Web App saying
 
 ``` Sorry, your IP is not allowed, this server is only accessible from local machine or local LAN. ```
 
