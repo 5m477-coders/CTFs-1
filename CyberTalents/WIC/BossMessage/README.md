@@ -10,4 +10,6 @@ The challenge was a Zip file named `Boss_Message.zip`
 
 - It's a `Vignere cipher`, The image helps you with the key `MORGAN`
 
-- Decode it and get your flag ;)
+- Decrypt it and get your flag ;)
+
+We used [Dcode](https://www.dcode.fr/vigenere-cipher) \:D/
